@@ -1,2 +1,2 @@
 # Weather
- Wheather App using wheather API in javascript
+ Weather App using wheather API in javascript
