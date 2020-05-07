@@ -1,2 +1,2 @@
 # Weather
- Weather App using wheather API in javascript
+ Weather App in javascript (using weather api)
